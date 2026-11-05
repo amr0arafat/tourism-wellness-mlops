@@ -1,0 +1,8 @@
+# Dependencies installed by every GitHub Actions job (Python 3.11).
+# Versions match tourism_project/deployment/requirements.txt so the trained model loads in the app.
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.6.1
+xgboost==2.1.4
+joblib==1.4.2
+mlflow==3.0.1

@@ -1,0 +1,8 @@
+# Pinned to the same library versions used by the pipeline to train the model,
+# so the committed joblib file loads correctly on Streamlit Community Cloud (Python 3.11).
+streamlit==1.43.2
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.6.1
+xgboost==2.1.4
+joblib==1.4.2

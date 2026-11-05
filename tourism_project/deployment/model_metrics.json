@@ -12,9 +12,9 @@
   "train_recall": 1.0,
   "train_f1": 1.0,
   "train_roc_auc": 1.0,
-  "test_accuracy": 0.9415,
-  "test_precision": 0.8649,
-  "test_recall": 0.8258,
-  "test_f1": 0.8449,
-  "test_roc_auc": 0.9632
+  "test_accuracy": 0.9377,
+  "test_precision": 0.8387,
+  "test_recall": 0.8387,
+  "test_f1": 0.8387,
+  "test_roc_auc": 0.9606
 }
